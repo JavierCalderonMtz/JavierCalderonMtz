@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <!--
 **JavierCalderonMtz/JavierCalderonMtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +19,9 @@ https://www.linkedin.com/in/javier-cald/
 <h3 align="center">¡Hola Mundo soy Javier! 👋</h3>
 <h5 align="center">
   <code>
-    [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/javier-cald/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/sakshamtaneja/)
+
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-cald/)
+
 <br>
 <p align="center">
   Hola mucho gusto soy Javier y soy Ingeniero en Sistemas Computacionales
