@@ -28,7 +28,5 @@ Here are some ideas to get you started:
   <p align="center">
   💻 Me encanta la Programación y aprender de la Tecnologia
   <br>
-    <p align="center">
-  📫 Correo: <a href="javier.cald@outlook.com">javier.cald@outlook.com</a>
 </p>
 
