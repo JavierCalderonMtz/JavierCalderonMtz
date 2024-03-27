@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   Hola mucho gusto soy Javier y soy Ingeniero en Sistemas Computacionales
-  <br align="center">
-
+  <br>
+  <p align="center">
   💻 Me encanta la Programación y aprender de la Tecnologia
-  <br align="center">
+  <br>
+    <p align="center">
   📫 Correo: <a href="javier.cald@outlook.com">javier.cald@outlook.com</a>
 </p>
 
