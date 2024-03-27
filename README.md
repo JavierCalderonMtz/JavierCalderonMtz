@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h5 align="center">
   <code>
     
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-cald/)
+
 <br>
 <p align="center">
   Hola mucho gusto soy Javier y soy Ingeniero en Sistemas Computacionales
@@ -29,4 +29,6 @@ Here are some ideas to get you started:
   💻 Me encanta la Programación y aprender de la Tecnologia
   <br>
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-cald/)
 
