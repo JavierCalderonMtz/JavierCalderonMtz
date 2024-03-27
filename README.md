@@ -23,16 +23,10 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   Hola mucho gusto soy Javier y soy Ingeniero en Sistemas Computacionales
-  <br>
+  <br align="center">
 
-  💻 I love writing code and learn anythings about it
-  <br>
-  🔬 I’m currently working on Django
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me about <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  💻 Me encanta la Programación y aprender de la Tecnologia
+  <br align="center">
+  📫 Correo: <a href="javier.cald@outlook.com">javier.cald@outlook.com</a>
 </p>
 
