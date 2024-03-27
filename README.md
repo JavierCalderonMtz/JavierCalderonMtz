@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+https://www.linkedin.com/in/javier-cald/
 <h3 align="center">¡Hola Mundo soy Javier! 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/javier-cald/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-</h5>
+    [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/javier-cald/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/sakshamtaneja/)
 <br>
 <p align="center">
   Hola mucho gusto soy Javier y soy Ingeniero en Sistemas Computacionales
